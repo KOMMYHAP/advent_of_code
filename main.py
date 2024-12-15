@@ -1,8 +1,8 @@
-from task_4 import task_4
+from task_5 import task_5
 
 
 def main():
-    task_4()
+    task_5()
 
 
 if __name__ == '__main__':
